@@ -2,7 +2,7 @@
 
 - OpenCom is a Open Source Communication [designed initally to be a discord alternative]
 
-- OpenCom was orriginally founded in early july 2026 but officially released in March 2026
+- OpenCom was orriginally founded in early febuary 2026 but officially released in March 2026
 
 - We currently surpass over 30k Users on the platform
 
